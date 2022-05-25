@@ -1,5 +1,6 @@
 # Visão-computacional
-Ferramentas em python que poderão te ajudar a trabalhar com Visão computacional
+Ferramentas em python que poderão te ajudar a trabalhar com Visão computacional utilizando a biblioteca Opencv.
+Ref: https://opencv.org/
 
 ## Aprimoramento de imagem:  
 processos de melhoria de imagem;
