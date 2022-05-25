@@ -1,7 +1,7 @@
 # Visão-computacional
 Ferramentas em python que poderão te ajudar a trabalhar com Visão computacional
 
-# Aprimoramento de imagem:  
+## Aprimoramento de imagem:  
 processos de melhoria de imagem;
 
 # fps.py:  
